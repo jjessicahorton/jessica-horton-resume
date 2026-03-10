@@ -1,31 +1,6 @@
-# arasgungore-CV
+# __Resume__ | Jess Horton
 
-My curriculum vitae (CV) written using LaTeX. In my CV, you may find my contact information, websites, education, experience, achievements, projects, and skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjessicahorton) 
 
-Please find attached my [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing). 😜
+To view my resume, click the link titled "Jessica_Horton_Resume.pdf." All of the source code for this resume can be found in "Jessica_Horton_Resume.tex," and likewise the original template I modeled my resume off of can be found in "main.tex." Thanks for taking the time to look at it!
 
-
-
-## Run on Terminal
-
-```sh
-pdflatex main.tex
-```
-
-
-
-## Screenshots
-
-<p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_1.jpg" width="400">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_2.jpg" width="400">
-</p>
-
-
-
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
