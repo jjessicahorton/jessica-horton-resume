@@ -13,6 +13,6 @@ _(For privacy purposes, my phone number and email have been redacted from the pu
 
 # Screenshots
 
-![ScreenShot_1](https://github.com/jjessicahorton/jessica-horton-resume/blob/4597c8ce4dff3b8117403c09764ff29aab70eae0/Resume_Screenshot_Pg_1.png)
-![Screenshot_2](https://github.com/jjessicahorton/jessica-horton-resume/blob/main/Resume_Screenshot_Pg_2.png)
+![ScreenShot_1](https://github.com/jjessicahorton/jessica-horton-resume/blob/main/resume_photos/resume_pg_1.png)
+![Screenshot_2](https://github.com/jjessicahorton/jessica-horton-resume/blob/main/resume_photos/resume_pg_2.png)
 
