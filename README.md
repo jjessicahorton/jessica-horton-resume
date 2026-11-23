@@ -8,7 +8,7 @@ _(For privacy purposes, my phone number and email have been redacted from the pu
 
 # Links
 - The RNA-binding protein Pumilio limits polymodal nociception in _Drosophila_ larvae: [GitHub](https://github.com/jjessicahorton/pumilo-manuscript-data-analysis)
-- The RNA-binding protein Pumilio limits polymodal nociception in _Drosophila_ larvae: [PubMed]([https://github.com/jjessicahorton/pumilo-manuscript-data-analysis](https://pubmed.ncbi.nlm.nih.gov/42428523/))
+- The RNA-binding protein Pumilio limits polymodal nociception in _Drosophila_ larvae: [PubMed](https://pubmed.ncbi.nlm.nih.gov/42428523/)
 
 - Appalachian State's [College of Arts and Sciences Senior Spotlight Award](https://cas.appstate.edu/news/cas-senior-spotlight-jess-horton)
 - Understanding Thermal Nociception Behavior: Analysis of the _Drosophila_ Connectome: [GitHub](https://github.com/jjessicahorton/thermal-nociception-connectome)
